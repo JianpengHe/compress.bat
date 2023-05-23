@@ -1,0 +1,24 @@
+{
+  "name": "compress.bat",
+  "version": "1.0.0",
+  "description": "把文件压缩成bat格式，直接打开就可以解压",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JianpengHe/compress.bat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JianpengHe/compress.bat/issues"
+  },
+  "homepage": "https://github.com/JianpengHe/compress.bat#readme",
+  "devDependencies": {
+    "@types/node": "^20.2.3",
+    "prettier": "^2.8.8",
+    "typescript": "^5.0.4"
+  }
+}
